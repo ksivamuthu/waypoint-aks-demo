@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ksivamuthu/personal/waypoint-aks-demo/CoffeeService/CoffeeService.csproj": {}
+  },
+  "projects": {
+    "/Users/ksivamuthu/personal/waypoint-aks-demo/CoffeeService/CoffeeService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ksivamuthu/personal/waypoint-aks-demo/CoffeeService/CoffeeService.csproj",
+        "projectName": "CoffeeService",
+        "projectPath": "/Users/ksivamuthu/personal/waypoint-aks-demo/CoffeeService/CoffeeService.csproj",
+        "packagesPath": "/Users/ksivamuthu/.nuget/packages/",
+        "outputPath": "/Users/ksivamuthu/personal/waypoint-aks-demo/CoffeeService/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/ksivamuthu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
